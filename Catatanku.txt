@@ -1,0 +1,3 @@
+Ini adalah cara membuat file baru di GitHub
+Berikan judul file di atas dan jangan lupa tulis
+ekstensi filenya. 
